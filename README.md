@@ -1,1 +1,1 @@
-# Movie-recommendation-sysytem
+# Movie-Recommendation-system
